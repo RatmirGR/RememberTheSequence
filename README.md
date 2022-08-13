@@ -9,4 +9,5 @@
 <br/>
 <p>2) Selection stage:</p>
 <p>- Must select all previously displayed cells</p>
-
+<p><img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/selection.png" alt="Cell" height="400"/>
+<img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/success.png" alt="ActiveCell" height="400"/></p>
