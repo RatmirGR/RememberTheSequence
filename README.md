@@ -1,7 +1,7 @@
 # RememberTheSequence
 <h2>Description</h2>
 <p>Game for the development of short-term memory</p>
-<p></p>
+<br/>
 <p>1) Display stage:</p>
 <p>- The program displays several cells in random places</p>
 <p><img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/cell.png" alt="Cell" height="400"/>
