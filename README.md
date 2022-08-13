@@ -6,4 +6,7 @@
 <p>- The program displays several cells in random places</p>
 <p><img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/cell.png" alt="Cell" height="400"/>
 <img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/activeCell.png" alt="ActiveCell" height="400"/></p>
+<br/>
+<p>2) Selection stage:</p>
+<p>- Must select all previously displayed cells</p>
 
