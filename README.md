@@ -9,5 +9,10 @@
 <br/>
 <p>2) Selection stage:</p>
 <p>- Must select all previously displayed cells</p>
+<p>In case of correct selection, a green background is displayed</p>
 <p><img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/selection.png" alt="Cell" height="400"/>
 <img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/success.png" alt="ActiveCell" height="400"/></p>
+<br/>
+<p>In case of incorrect selection, a red background is displayed</p>
+<p><img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/selection2.png" alt="Cell" height="400"/>
+<img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/error.png" alt="ActiveCell" height="400"/></p>
