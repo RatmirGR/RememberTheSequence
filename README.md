@@ -19,7 +19,3 @@
 <p>In case of incorrect selection, a red background is displayed</p>
 <p><img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/selection2.png" alt="Cell" height="200"/>
 <img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/error.png" alt="ActiveCell" height="200"/></p>
-<br/>
-<p>In case of incorrect selection, a red background is displayed</p>
-<p><img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/selection2.png" alt="Cell" height="200"/>
-<img src="https://github.com/RatmirW/RememberTheSequence/blob/main/images/error.png" alt="ActiveCell" height="200"/></p>
